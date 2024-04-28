@@ -2,7 +2,7 @@ import json
 from string import ascii_uppercase
 
 
-def trigram_similarity(word_check, rating=0.5):
+def trigram_similarity(word_check: str, rating=0.5):
     """
     Trigram similarity between two strings is determined by the number of matching character triplets in both strings.
     The algorithm can be generalized to n-grams, where n=1, 2, ...
