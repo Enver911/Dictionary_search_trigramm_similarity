@@ -1,8 +1,8 @@
 ﻿
 <h3>Trigram similarity function (search algorithm)</h3>
 
-<h4>
-trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "description", ...} returns words with descriptions found in dictionaries
+<h4>trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "description", ...} returns words with descriptions found in dictionaries</h4>
+
 
 <h5>
   Trigram similarity between two strings is determined by the number of matching character triplets in both strings.
@@ -23,6 +23,8 @@ trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "descriptio
 </h5>
 ---------------------------------
 <h3>Функция триграммного сходства (поисковой алгоритм)</h3>
+
+<h4>trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "description", ...} возвращает слова с определениями, найденными в словарях</h4>
 
 <h5>
   Триграммное сходство (trigram similarity) между двумя строками определяется числом совпадающих символьных триплетов в обоих строках. 
