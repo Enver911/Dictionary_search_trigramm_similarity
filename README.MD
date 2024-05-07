@@ -21,9 +21,7 @@ trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "descriptio
   <br>
   b - number of trigrams in string2
 </h5>
-
 ---------------------------------
-﻿
 <h3>Функция триграммного сходства (поисковой алгоритм)</h3>
 
 <h5>
