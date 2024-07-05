@@ -1,4 +1,5 @@
-﻿
+<h1>Dictionary search using trigramm similarity function</h1>
+
 <h3>Trigram similarity function (search algorithm)</h3>
 
 <h4>trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "description", ...} returns words with descriptions found in dictionaries</h4>
@@ -22,6 +23,8 @@
   b - number of trigrams in string2
 </h5>
 ---------------------------------
+<h1>Поиск по словарю с использованием функции триграммного сходства</h1>
+
 <h3>Функция триграммного сходства (поисковой алгоритм)</h3>
 
 <h4>trigram_similarity(word_check, rating: float = 0.5) -> dict {"word": "description", ...} возвращает слова с определениями, найденными в словарях</h4>
